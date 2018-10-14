@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sudo mv /usr/share/icons/hicolor/scalable/status/megapaused_backup.svg /usr/share/icons/hicolor/scalable/status/megapaused.svg
+sudo mv /usr/share/icons/hicolor/scalable/status/megasynching_backup.svg /usr/share/icons/hicolor/scalable/status/megasynching.svg
+sudo mv /usr/share/icons/hicolor/scalable/status/megauptodate_backup.svg /usr/share/icons/hicolor/scalable/status/megauptodate.svg
+sudo mv /usr/share/icons/hicolor/scalable/status/megawarning_backup.svg /usr/share/icons/hicolor/scalable/status/megawarning.svg
